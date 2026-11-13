@@ -24,7 +24,7 @@ export const localFAQ: LocalFaqEntry[] = [
   {
     keys: ['contact', 'whatsapp', 'llamar', 'hablar con alguien', 'humano'],
     reply:
-      'Claro, puedes escribirnos directo por WhatsApp o Instagram (los enlaces están en la sección de Contacto) y te respondemos en menos de 24 horas.',
+      'Claro, puedes escribirnos directo por WhatsApp o correo (los enlaces están en la sección de Contacto) y te respondemos en menos de 24 horas.',
   },
   {
     keys: ['chatbot', 'bot', 'ia', 'inteligencia artificial'],

@@ -4,10 +4,10 @@ import { ContactButton } from '../common/ContactButton';
 import { aboutCopy } from '../../data/content';
 
 const corners = [
-  { src: '/media/marquee-2.jpg', alt: 'Automatización de flujos', pos: 'top-[4%] left-[1%] sm:left-[2%] md:left-[4%]', size: 'w-[110px] sm:w-[150px] md:w-[190px]', delay: 0.1, x: -80 },
-  { src: '/media/marquee-3.jpg', alt: 'Integraciones', pos: 'bottom-[8%] left-[3%] sm:left-[6%] md:left-[10%]', size: 'w-[90px] sm:w-[130px] md:w-[160px]', delay: 0.25, x: -80 },
-  { src: '/media/marquee-4.jpg', alt: 'Diseño web', pos: 'top-[4%] right-[1%] sm:right-[2%] md:right-[4%]', size: 'w-[110px] sm:w-[150px] md:w-[190px]', delay: 0.15, x: 80 },
-  { src: '/media/marquee-5.jpg', alt: 'Reportes y analítica', pos: 'bottom-[8%] right-[3%] sm:right-[6%] md:right-[10%]', size: 'w-[120px] sm:w-[160px] md:w-[200px]', delay: 0.3, x: 80 },
+  { src: 'media/marquee-2.jpg', alt: 'Automatización de flujos', pos: 'top-[4%] left-[1%] sm:left-[2%] md:left-[4%]', size: 'w-[110px] sm:w-[150px] md:w-[190px]', delay: 0.1, x: -80 },
+  { src: 'media/marquee-3.jpg', alt: 'Integraciones', pos: 'bottom-[8%] left-[3%] sm:left-[6%] md:left-[10%]', size: 'w-[90px] sm:w-[130px] md:w-[160px]', delay: 0.25, x: -80 },
+  { src: 'media/marquee-4.jpg', alt: 'Diseño web', pos: 'top-[4%] right-[1%] sm:right-[2%] md:right-[4%]', size: 'w-[110px] sm:w-[150px] md:w-[190px]', delay: 0.15, x: 80 },
+  { src: 'media/marquee-5.jpg', alt: 'Reportes y analítica', pos: 'bottom-[8%] right-[3%] sm:right-[6%] md:right-[10%]', size: 'w-[120px] sm:w-[160px] md:w-[200px]', delay: 0.3, x: 80 },
 ];
 
 export function AboutSection() {
